@@ -1,0 +1,52 @@
+@media  (max-width: 1024px) {
+         .image3 {
+        width: 200px;
+        height: 200px;
+    }
+        footer {
+        height: 190px;
+        padding: 30px 70px;
+    }
+        footer img {
+            width: 20px; 
+            height: auto;
+        }
+        footer i {
+            width: 9px;
+        }
+    .left-footer, .right-footer, .mix, .li, .left-footer p {
+        font-size: 10px;
+    }
+    .selected, .left-footer h1 {
+        font-size: 15px;
+        margin-bottom: 20px
+    }
+        .imagebox {
+        margin-bottom: 35px;
+        gap: 30px;
+    }
+}
+@media  (max-width: 768px) {
+    .outsider {
+         font-size: 30px;
+         margin-bottom: 20px;
+    }
+    h4 {
+        font-size: 15px;
+    }
+    .form-box, .form1 textarea, .form2  {
+        height: 198px;
+        gap: 13px;
+    }
+    section {
+        padding: 40px;
+    }
+    .form1 textarea, .form2 input {
+        font-size: 10px;
+    }
+}
+@media (max-width: 485px) {
+    footer {
+        padding: 20px 10px;
+    }
+}
